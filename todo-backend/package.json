@@ -9,8 +9,8 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "restify": "4.3.4",
-    "sequelize": "4.44.3",
-    "mysql": "2.9.0"
+    "restify": ">=8.0.0",
+    "sequelize": ">=4.44.3",
+    "mysql": ">=2.9.0"
   }
 }
